@@ -1,0 +1,22 @@
+{
+  "name": "put2clipboard",
+  "version": "0.1.0",
+  "description": "Copy to clipboard",
+  "keywords": [
+    "clipboard",
+    "copy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexander-elgin/put2clipboard.git"
+  },
+  "main": "src/index.js",
+  "engines": {
+    "npm": ">=3",
+    "node": ">=5"
+  },
+  "author": "Alexander Elgin",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
